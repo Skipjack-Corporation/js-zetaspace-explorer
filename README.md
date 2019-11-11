@@ -1,1 +1,1 @@
-# react-zetaspace-explorer
+# js-zetaspace-explorer
